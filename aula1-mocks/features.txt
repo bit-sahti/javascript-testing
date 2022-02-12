@@ -1,0 +1,6 @@
+the file should contain id, name, profession and age
+the file should not be empty
+the file should not have more than 4 lines including headers
+the file must have the same number os items in each lines
+the file should not end in empty space
+the function should return yearOfBirth from age
